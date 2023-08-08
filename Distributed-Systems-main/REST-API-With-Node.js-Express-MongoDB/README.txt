@@ -1,7 +1,7 @@
 == Students Details ==
 
 First Student Name: Muath Abu Jamal
-Seconf Student Name: khaled idkeadik
+Second Student Name: Khaled Idkeadik
 
 == How To Run ==
 
